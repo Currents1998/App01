@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/historia', function () {
     return view('historia');
 });
+
+Route::get('/codigo', function () {
+    return view('codigo');
+});
