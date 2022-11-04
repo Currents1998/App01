@@ -93,7 +93,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    DON'T NTR U WILL CRY
+                                    EN MANTENIMIENTO
                                 </div>
                             </div>
                         </div>
@@ -123,7 +123,7 @@
                             </svg>
 
                             <a href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/slender-man-1539859802.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*" class="ml-1 underline">
-                                D ON T S h o p
+                                AMAZONAWS
                             </a>
 
                             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="ml-4 -mt-px w-5 h-5 text-gray-400">
@@ -131,7 +131,7 @@
                             </svg>
 
                             <a href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/slender-man-1539859802.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*" class="ml-1 underline">
-                                CLOSE RIGHT NOW
+                                AMAZONAWS
                             </a>
                         </div>
                     </div>
