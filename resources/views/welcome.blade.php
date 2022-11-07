@@ -40,10 +40,7 @@
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
                         <g clip-path="url(#clip0)" fill="#EF3B2D">
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_woYG8ughmUYmoHm0CU0ficeWieFlhrhcjagw4_1M8rqPn9uz4P6KLcZZKpszseQCCD-puqCJTfnVGcjkW0POpfO0qRgkLH1w7UrPcT49P4dX8sESfM5NpbwRl_zLhSsPFmBPTVHYegK2z5k9szI4PvsGYq1fFL6yEgLB5qfp5Q1Pog8GtBwuBLMB/s500/Black_Pink_Bold_Elegant_Monogram_Personal_Brand_Logo__1_-removebg-preview.png"
-                                l 80,80
-                                v -80
-                                h -40"/>
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_woYG8ughmUYmoHm0CU0ficeWieFlhrhcjagw4_1M8rqPn9uz4P6KLcZZKpszseQCCD-puqCJTfnVGcjkW0POpfO0qRgkLH1w7UrPcT49P4dX8sESfM5NpbwRl_zLhSsPFmBPTVHYegK2z5k9szI4PvsGYq1fFL6yEgLB5qfp5Q1Pog8GtBwuBLMB/s500/Black_Pink_Bold_Elegant_Monogram_Personal_Brand_Logo__1_-removebg-preview.png"/>
                         </g>
                     </svg>
                 </div>
@@ -80,7 +77,7 @@
                                 <br><br>
                                 <a href="https://losviajesdemary.com/descubre-lima-en-2-dias/" class="underline">Lima</a>
                                 <br><br>
-                                <a href="https://losviajesdemary.com/pucallpa-los-5-rincones-imperdibles-que-debes-visitar/" class="underline">Pucallpa</a> 
+                                <a href="https://losviajesdemary.com/pucallpa-los-5-rincones-imperdibles-que-debes-visitar/" class="underline">Pucallpa</a>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +96,8 @@
                         </div>
 
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
+                            <div class="flex items-left">
+                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 30 30" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
                                 <a href="http://127.0.0.1:8000/codigo" class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">DESCUENTOS</a></div>
                             </div>
 
